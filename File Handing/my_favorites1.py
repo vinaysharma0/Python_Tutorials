@@ -20,8 +20,6 @@ with open('src7/favorites/Favorite TV Shows - Form Responses 1.csv','r') as file
             counter += 1
 
     print(counter)
-# def f(title):
-#     return titles[title]
 
 # for title in sorted(titles, key= lambda title : titles[title], reverse=True):
 #     print(title, titles[title])
